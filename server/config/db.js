@@ -15,11 +15,8 @@ const { DB_USER, DB_PASSWORD, DB_HOST, DB_NAME, DB_URL } = process.env
 
 
 const pool = new Pool({
-  connectionString: DB_URL,
-  ssl: {
-    rejectUnauthorized: false
-  }
-   
+  connectionString: DB_URL
+  
 })
 
 const getData = async () => {

@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-const urlBase = "http://localhost:3005/products"
+const urlBase = "https://ejemplo-conexion-fsjs.onrender.com/products";
 const Productos = () => {
     const [products, setProducts] = useState([])
 
