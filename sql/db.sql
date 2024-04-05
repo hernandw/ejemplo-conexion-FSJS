@@ -28,3 +28,4 @@ VALUES
  ('Set de Maquillaje', 29.50, 'Belleza', 'Cosméticos Modernos', 'Maquilladora Profesional', 40),
  ('Mochila para Excursiones', 79.99, 'Accesorios', 'Aventuras al Aire Libre', 'Explorador Intrépido', 25);
 
+postgres://empredb_user:8jLQud3XiVSwyyb9ezohQWA9Tj7hvXVa@dpg-co7lm1779t8c73em6k90-a.oregon-postgres.render.com/empredb
